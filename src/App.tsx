@@ -16,7 +16,7 @@ function App() {
           <img src={ringImg} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>Sandhya, I love you ❤️</h1>
+          <h1>Hello Guys</h1>
         </div>
       </section>
 
